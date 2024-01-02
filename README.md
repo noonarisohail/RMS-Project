@@ -43,4 +43,4 @@ Specify acceptable response times for user interactions
 Restaurant management system constraints mainly revolve around data accuracy, security and system scalability. Ensuring real-time updates and accuracy of financial information is a challenge, as is implementing strong security measures to protect sensitive financial data. Scalability issues can arise as the volume of transactions increases, affecting system performance. Additionally, user interface design and accessibility considerations are essential to accommodate a diverse user base and ensure a smooth experience.
 
 •PROJECT PRESENATION VIDEO LINK.
-https://www.youtube.com/watch?v=waoXaRv0E5c
+https://youtu.be/2V_RFWpROj8?si=B56JzJBiKxg8nxjp
