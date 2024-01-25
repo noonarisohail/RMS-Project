@@ -45,6 +45,3 @@ Restaurant management system constraints mainly revolve around data accuracy, se
 
 • PROJECT PRESENATION VIDEO LINK.
 https://youtu.be/2V_RFWpROj8?si=B56JzJBiKxg8nxjp
-
-• LINKEDIN LINK 
-https://www.linkedin.com/posts/mohammad-sohail-337424234_softwaredevelopment-computerscience-softwareengineering-activity-7156241755229630464-99_L?utm_source=share&utm_medium=member_android 
